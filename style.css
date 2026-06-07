@@ -23,6 +23,7 @@ body {
 .main_content {
   display: grid;
   place-items: center;
+  transform: translateY(1rem);
 }
 
 .card {
