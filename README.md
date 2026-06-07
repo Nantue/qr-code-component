@@ -8,8 +8,8 @@ This is my solution for the QR Code Component challenge from Frontend Mentor.
 
 ## Links
 
-- Solution URL: https://github.com/TU-USUARIO/qr-code-component
-- Live Site URL: https://TU-USUARIO.github.io/qr-code-component/
+- Solution URL: https://github.com/Nantue/qr-code-component
+- Live Site URL: https://qr-code-component-silk.vercel.app/
 
 ## Built with
 
